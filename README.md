@@ -1,1 +1,1 @@
-# CuperMen
+# TS + effector + pokemonapi
