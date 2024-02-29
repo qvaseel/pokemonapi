@@ -1,1 +1,1 @@
-# pokemonapi
+# CuperMen
